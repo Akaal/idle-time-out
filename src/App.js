@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import IdleTimeOutHandler from './IdleTimeOutHandler'
+import IdleTimeOutHandler from './components/IdleTimeOutHandler'
 import { useState } from 'react';
 function App() {
 
